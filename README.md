@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @TejasBishnoi
-- 👀 I’m interested in Server Devlopment, java , python , Machine Learning, Android Devlopment.
-- 🌱 I’m currently learning Server Devlopment.
-- 💞️ I’m looking to collaborate on Android app based java server for Chatting, What different is that the chat data will be stored inside the Phone and the server's work is only to connect the 2 client.  
-- 📫 How to reach me - Contact me via tejas.bishnoi.0001@gmail.com
+# 👋 Hi, I’m Tejas Bishnoi  
 
-<!---
-TejasBishnoi/TejasBishnoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 Mechanical engineering student with a passion for **aerospace, cars, and everything that moves with an engine**.  
+- ✈️ Exploring **aerodynamics, CFD simulations (OpenFOAM / ANSYS Fluent), and jet/automotive design concepts**.  
+- 🌱 Currently learning **computational tools and design workflows** to bridge theory with real-world engineering.  
+- 🤝 Open to collaborate on projects involving **aerospace design, FSAE-style race cars, or simulation-driven engineering**.  
+- 📫 Reach me: **tejas.bishnoi.0001@gmail.com**  
